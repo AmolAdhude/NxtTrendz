@@ -1,0 +1,55 @@
+/* Write your CSS here */
+.similar-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 150px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.similar-image {
+  width: 100%;
+  border-radius: 4px;
+}
+
+.title-similar {
+  color: #12022f;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.brand-name {
+  color: #616e7c;
+  font-size: 10px;
+  margin-top: 0px;
+}
+
+.bottom-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.price-bottom {
+  color: #12022f;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.rating-bottom {
+  width: 40px;
+  background-color: #3b82f6;
+  color: white;
+  font-size: 10px;
+  text-align: center;
+  padding: 2px;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
