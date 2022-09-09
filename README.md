@@ -8,6 +8,8 @@ In this project, let's build a **Nxt Trendz - Specific Product Details** app by 
 </div>
 <br/>
 
+Username: rahul
+password: rahul@2021
 ### Design Files
 
 <details>
